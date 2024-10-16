@@ -6,3 +6,6 @@ Clone this repo and then run
 cd vimrc
 cp .vimrc ~/.vimrc
 ```
+
+## License
+This project is licensed under the MIT License.
